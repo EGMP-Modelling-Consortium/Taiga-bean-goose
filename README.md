@@ -1,2 +1,2 @@
 # Taiga-bean-goose
-Taiga bean goose population modelling
+Population modelling for Taiga Bean Goose
